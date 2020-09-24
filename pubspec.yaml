@@ -1,8 +1,8 @@
-name: play_widget
+name: play_audio_widget
 description: play widget lik wx
-version: 1.0.0
+version: 1.0.1
 author: rd
-homepage:
+homepage: https://github.com/rd-wang/flutter_widget_play_audio
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
